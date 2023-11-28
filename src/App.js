@@ -1,15 +1,9 @@
-
-import './App.css';
-
+import Body from "./components/Body";
 function App() {
   return (
     <div className="App font-bold">
-      <header className="App-header">
+      <Body/>
 
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
     </div>
   );
 }
