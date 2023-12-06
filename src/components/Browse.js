@@ -1,7 +1,9 @@
-const Broswe = () => {
+import Header from "./Header";
+
+const Browse = () => {
     return <div>
-        Broswe
+        < Header/>
     </div>
 };
 
-export default Broswe;
+export default Browse;

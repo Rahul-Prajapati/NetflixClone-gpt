@@ -1,13 +1,27 @@
-echo "# NetflixClone-gpt" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/Rahul-Prajapati/NetflixClone-gpt.git
-  git push -u origin main
-
-  git remote add origin https://github.com/Rahul-Prajapati/NetflixClone-gpt.git
-  git branch -M main
-  git push -u origin main
-
 # my-Netflix
+
+Create React App
+Configured TailwindCSS
+Header
+Routing of App
+Login Form
+Sign up Form
+Form Validation
+useRef Hook
+Firebase Setup
+Deploying our app to production
+Create SignUp User Account
+Implement Sign In user Api
+Created Redux Store with userSlice
+Implemented Sign out
+Update Profile
+BugFix: Sign up user displayName and profile picture update
+BugFix: if the user is not logged in Redirect /   browse to Login Page and vice-versa
+
+# Features
+
+Login/Sign Up
+  Sign In /Sign up Form
+  redirect to Browse Page
+Browse (after authentication)
+  Header
