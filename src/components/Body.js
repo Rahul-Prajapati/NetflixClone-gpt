@@ -6,7 +6,7 @@ import { useEffect } from "react";
 import { onAuthStateChanged } from "firebase/auth";
 import { addUser, removeUser } from "../utils/userSlice";
 import { useDispatch } from "react-redux";
-import {  } from "../utils/userSlice";
+
 import { auth } from "../utils/firebase"
 
 const Body = () => {
